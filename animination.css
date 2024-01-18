@@ -1,0 +1,52 @@
+/* div{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    animation-name: kuchbhi;
+    animation-duration: 10s;
+}
+@keyframes kuchbhi{
+    0%{
+        background-color: black;
+        height: 500px;
+        width: 400px;
+    }
+    25%{
+        background-color: blue;
+        width: 100px;
+        border-radius: 50%;
+    }
+    75%{
+        background-color: green;
+        height: 400vh;
+    }
+    100%{
+        background-color: purple;
+        height: 400vw;
+    }
+} */
+
+/* div{
+    height: 100px;
+    width: 200px;
+    background: linear-gradient(orange,green);
+    border-radius: 80%;
+    /* transform: translateY(alternate); */
+    animation-name: something;
+    animation-duration: 900ms;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    
+}
+@keyframes something {
+    0%{
+        /* background-color: aqua; */
+        transform: translateY(0px);
+    }
+    100%{
+       transform: translateY(80vh);
+    } */
+
+
+}
